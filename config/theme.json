@@ -1,0 +1,20 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": false,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
+    "postPageSize": 20,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "数据与软件创新实验室组织网站",
+    "siteName": "数据与软件创新实验室组织",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "simple"
+  },
+  "customConfig": {}
+}

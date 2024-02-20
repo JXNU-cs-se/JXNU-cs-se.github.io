@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "main",
+    "domain": "https://JXNU-cs-se/JXNU-cs-se.github.io",
+    "email": "",
+    "enabledProxy": "direct",
+    "platform": "github",
+    "repository": "JXNU-cs-se.github.io",
+    "token": "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",
+    "username": "JXNU-cs-se"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
